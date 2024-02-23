@@ -3,6 +3,7 @@ let modelsJson = [
     {
         id: 1,
         name: 'F4F Wildcat.png',
+        img: 'img/F4FWildcat.png',
         price: [100.00, 150.00, 200.00],
         sizes: ['1/72', '1/48', '1/32'],
         description: 'Caça utilizado nos primeiros anos de combate no pacífico pela marinha dos EUA'
